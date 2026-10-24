@@ -1,4 +1,4 @@
-b
+
 /* =====================================================
    AARU'S WEDDING INVITATION
    FULL UPDATED JAVASCRIPT
