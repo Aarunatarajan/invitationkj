@@ -1,4 +1,4 @@
-
+b
 /* =====================================================
    AARU'S WEDDING INVITATION
    FULL UPDATED JAVASCRIPT
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "https://www.google.com/maps/search/?api=1&query=Sri+Balamurugan+Mahal+Palani+Tamil+Nadu",
 
     // International format, digits only.
-    groomWhatsAppNumber: "+917397553931"
+    groomWhatsAppNumber: "917397553931"
   };
 
 
